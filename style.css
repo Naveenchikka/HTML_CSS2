@@ -1,0 +1,136 @@
+.col-3 li 
+{
+    list-style: none;
+   
+}
+
+.tut 
+{
+    font-family: "Segoe UI",Arial,sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    margin: 30px 0 8px -30px;
+    width: 204px;
+}
+
+.Chapters
+{
+    width:100%;
+    border:1px solid gray;
+    padding:8px;
+    background:#e1efbb url('mountain.jpg');
+    margin-left: 2em;
+}
+
+#sidenav 
+{
+    width: 230px;
+    height: 770px;
+    box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);
+    overflow-y: scroll;
+    text-decoration: none;
+}
+
+.leftmenu
+{
+    background-color: #E7E9EB;
+}
+
+.leftmenu li 
+{
+    margin-left: -45px;
+   
+}
+
+.navigate 
+{
+    text-decoration: none;
+    color: black;
+}
+.overview 
+{
+    display: block;
+}
+
+
+
+#sidenav li
+{
+    font-family: "Segoe UI",Arial,sans-serif;
+    text-decoration: none;
+    display: block;
+    padding: 2px 1px 1px 16px;
+}
+
+.css
+{
+    margin-top: 2.0em;
+    margin-bottom: 2.0em;
+    font-size: 16px;
+    margin-left: 2em;
+}
+
+hr {
+    
+    height: 12px;
+    background: rgba(0, 0, 0, 0.096);
+}
+ .submenu li
+ {
+     margin-left: -40px;
+    margin-bottom: 5px;
+    
+ }
+
+ .active 
+ {
+     background-color: rgba(0, 100, 0, 0.747);
+ }
+ .submenu
+ {
+     
+     width: 170px;
+    background-color: rgba(128, 128, 128, 0.089);
+ }
+
+ .Division 
+ {
+    margin-left: 2em;
+ }
+
+ .w3-example 
+ {
+    padding: 8px 20px;
+    margin: 24px -20px;
+    box-shadow: none!important;
+    background-color: #E7E9EB;
+    border-radius: 5px;
+    display: block;
+ }
+
+ .w3-code 
+ {
+    border-left: 4px solid #04AA6D;
+    width: auto;
+    background-color: #fff;
+    padding: 8px 12px;
+    font-family: Consolas,"courier new";
+ }
+
+ .w3-btn 
+ {
+    border: none;
+    display: inline-block;
+    text-decoration: none;
+    background-color: #04AA6D!important;
+    border-radius: 5px;
+    font-size: 17px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 6px 18px;
+    margin-top: 15px;
+    margin-bottom: 16px!important;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    color: white;
+ }
